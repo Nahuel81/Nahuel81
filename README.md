@@ -2,7 +2,7 @@
 
 <h3 align="center">Java Developer ☕</h3>
 
-- 🔭 Actualmente estoy trabajando en [Proyectos Backend](https://apbackendproyecto.herokuapp.com/)
+- 🔭 Actualmente estoy trabajando freelance en [Proyectos Backend](https://apbackendproyecto.herokuapp.com/)
 
 - 🌱 Tambien estoy aprendiendo **QA**
 
